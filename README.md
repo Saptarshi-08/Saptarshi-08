@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saptarshi Datta
 - 👀 I’m interested in Web-development, Generative AI and competetive coding.
-- 🌱 I’m currently learning front-end devolopment, back-end devolopment, and GEN AI.
+- 🌱 I’m currently learning front-end devolopment, back-end devolopment, and Gen AI.
 - 💞️ I’m looking to collaborate on gen-ai projects, web-dev projects, open source projects.
 - 📫 How to reach me: saptarshi.datta.cse27@heritageit.edu.in
 - 😄 Pronouns: he/him
